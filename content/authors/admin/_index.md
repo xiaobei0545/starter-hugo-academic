@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xiaonan Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D., Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Florida State University
+  url: https://www.fsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+  bio: Xiaonan Zhang is an Assistant Professor in the Department of Computer Science at Florida State University. She earned her Ph.D. degree in Electrical and Computer Engineering at Clemson University in 2020. She received her M.S. degree in Electrical and Computer Engineering from Binghamton University in 2017. 
+  
+ Her research interests span over general areas of wireless communication and network, Internet of Things (IoT), and wireless security. Her current research focuses on the intelligent next-generation (NextG) network systems, with an emphasis on interference mitigation, resource allocation, and wireless security in a heterogeneous wireless environment. She attempts to tackle those challenges with the use of both traditional wireless technologies and data-driven learning approaches. Her publications have appeared in prestigious conferences and journals including INFOCOM, ICDCS, AsiaCCS, IEEE TON, IEEE TMC, and IEEE TWC. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Wireless Communication and Networking
+- Internet of Things
+- Wireless security
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical and Computer Engineering
+    institution: Clemson Univeristy
+    year: 2020
+  - course: MS in Electrical and Computer Engineering
+    institution: State University of New York - Binghamton
+    year: 2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,7 +64,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "xzhang@cs.fsu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
